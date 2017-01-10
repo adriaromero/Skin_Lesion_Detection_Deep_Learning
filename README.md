@@ -2,6 +2,7 @@
 
 # Author: Adrià Romero López
 Advisor: Dr. Oge Marques from the Florida Atlantic University (FAU)
+
 Co-Advisor: Dr. Xavier Giró-i-Nieto from the Universitat Politècnica de Catalunya (UPC)
 
 The recent emergence of machine learning and deep learning methods for medical image analysis has enabled the development of intelligent medical imaging-based diagnosis systems that can assist physicians in making better decisions about a patient’s health. In particular, skin imaging is a field where these new methods can be applied with a high rate of success. 
