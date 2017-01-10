@@ -18,4 +18,4 @@ Finally, this work performs an evaluation of mixing the two approaches by trying
 Experimental results for the classification task are encouraging: on the ISIC Archive dataset, the proposed method achieves an accuracy on the top three best previously published results. The experimental results of the segmentation evaluations demonstrate that the proposed method can outperform other state-of-the-art models.
 
 
-# Keywords#: Medical Image Analysis, Deep Learning, Medical Decision Support Systems, Convolutional Neural Networks, Transfer Learning, Machine Learning, Melanoma, Dermoscopy, Skin Lesions, Skin Cancer.
+Keywords: Medical Image Analysis, Deep Learning, Medical Decision Support Systems, Convolutional Neural Networks, Transfer Learning, Machine Learning, Melanoma, Dermoscopy, Skin Lesions, Skin Cancer.
