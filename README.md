@@ -11,9 +11,9 @@ This thesis focus on the problem of automatic skin lesion detection,  particular
 
 For the first problem, the U-Net convolutional neural network architecture is applied for an accurate extraction of the lesion region. 
 
-For the second problem, the model begins with a particularization for a binary classification of early melanoma detection that can be generalized to multi-class skin lesion classification.  The proposed solution is built around the VGG-Net ConvNet architecture and uses the transfer learning paradigm. 
+For the second problem, the current model performs a binary classification (benign versus malignant) that can be used for early melanoma detection. The model is general enough to be extended to multi-class skin lesion classification. The proposed solution is built around the VGG-Net ConvNet architecture and uses the transfer learning paradigm. 
 
-Finally, this work performs an evaluation of mixing the two approaches by trying to achieve better accuracies on the classification method.
+Finally, this work performs a comparative evaluation of classification  alone (using the entire image) against a combination of the two approaches (segmentation followed by classification) in order to assess which of them achieves better classification results.
 
 Experimental results for the classification task are encouraging: on the ISIC Archive dataset, the proposed method achieves an accuracy on the top three best previously published results. The experimental results of the segmentation evaluations demonstrate that the proposed method can outperform other state-of-the-art models.
 
