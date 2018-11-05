@@ -31,6 +31,8 @@ The recent emergence of machine learning and deep learning methods for medical i
 of intelligent medical imaging-based diagnosis systems that can assist physicians in making better decisions about a 
 patient’s health. In particular, skin imaging is a field where these new methods can be applied with a high rate of success.
 
+![Melanoma vs Benign image](./images/work/dataset.jpg)
+
 This thesis focuses on the problem of automatic skin lesion detection, particularly on melanoma detection, by applying 
 semantic segmentation and classification from dermoscopic images using a deep learning based approach. For the first 
 problem, a U-Net convolutional neural network architecture is applied for an accurate extraction of the lesion region. 
@@ -41,11 +43,11 @@ Finally, this work performs a comparative evaluation of classification alone (us
 combination of the two approaches (segmentation followed by classification) in order to assess which of them achieves
  better classification results.
  
+![Overall scheme](./images/work/scheme.png)
+
 Experimental results for the classification task are encouraging: on the ISIC Archive dataset, the proposed method 
 achieves an accuracy in the top three of the best previously published results. The experimental results of the 
 segmentation evaluations demonstrate that the proposed method can outperform other state-of-the-art models.
-
-![Overall scheme](./images/work/scheme.png)
 
 **Keywords**: `Medical Image Analysis`, `Deep Learning`, `Medical Decision Support Systems`, 
 `Convolutional Neural Networks`, `Transfer Learning`, `Machine Learning`, `Melanoma`, `Dermoscopy`, `Skin Lesions`,
