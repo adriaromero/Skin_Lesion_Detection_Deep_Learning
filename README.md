@@ -2,9 +2,9 @@
 
 | ![Adria Romero Lopez][AdriaRomero-photo]  | ![Oge Marques][OgeMarques-photo]  |  ![Xavier Giro-i-Nieto][XavierGiro-photo] | 
 |:-:|:-:|:-:|
-| [Adria Romero][AdriaRomero-web]  | [Oge Marques][OgeMarques-web]   |[Xavier Giro-i-Nieto][XavierGiro-web] | 
+| [Adria Romero-Lopez][AdriaRomero-web]  | [Oge Marques][OgeMarques-web]   |[Xavier Giro-i-Nieto][XavierGiro-web] | 
 
-[AdriaRomero-web]: https://www.adriaromero.net/
+[AdriaRomero-web]: http://adriaromero.net/
 [OgeMarques-web]: https://www.ogemarques.com/
 [XavierGiro-web]: https://imatge.upc.edu/web/people/xavier-giro
 
@@ -14,15 +14,15 @@
 
 A joint collaboration between:
 
-| ![logo-gpi] | ![logo-ceecs] |
+| ![gpi-logo] | ![ceecs-logo] |
 |:-:|:-:|
 |[UPC - Image Processing Group][gpi-web] | [FAU - College of Engineering and Computer Science][ceecs-web]|
  
 [gpi-web]: https://imatge.upc.edu/web/ 
 [ceecs-web]: http://www.ceecs.fau.edu/
 
-[data61-logo]: ./images/logos/upc-imatge.png 
-[gpi-logo]: ./images/logos/fau-ceecs.png
+[gpi-logo]: ./images/logos/upc-imatge.png 
+[ceecs-logo]: ./images/logos/fau-ceecs.png
 
 
 ## Abstract 
